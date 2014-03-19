@@ -9,10 +9,12 @@ the list centers it.
 Usage
 =================
 
-   <com.fritz.horizontaltablist.HorizontalTabList
+```xml
+<com.fritz.horizontaltablist.HorizontalTabList
         android:id="@+id/tablist"
         android:layout_width="match_parent"
         android:layout_height="100dp" />
+```
 
 Version
 =================

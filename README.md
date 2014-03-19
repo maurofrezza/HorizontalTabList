@@ -7,7 +7,7 @@ It allows to create a list of tabs with custom layout. When clicking to a tab
 the list centers it.
 
 Usage
-=================
+--------
 
 ```xml
 <com.fritz.horizontaltablist.HorizontalTabList
@@ -17,12 +17,12 @@ Usage
 ```
 
 Version
-=================
+--------
 
 Version 0.1 - 19/03/2014
 
 License
-=================
+--------
 
 Copyright (C) 2014 Mauro Frezza
 

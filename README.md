@@ -6,6 +6,14 @@ Extends TabPageIndicator by Jake Wharton
 It allows to create a list of tabs with custom layout. When clicking to a tab
 the list centers it.
 
+Usage
+=================
+
+   <com.fritz.horizontaltablist.HorizontalTabList
+        android:id="@+id/tablist"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+
 Version
 =================
 
